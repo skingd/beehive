@@ -1,0 +1,1 @@
+<?php //This should be the first file ?>
